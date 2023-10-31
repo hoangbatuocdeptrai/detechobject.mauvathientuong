@@ -1,0 +1,10 @@
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\bin\Debug\Selected Color.exe.config
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\bin\Debug\Selected Color.exe
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\bin\Debug\Selected Color.pdb
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected Color.csproj.AssemblyReference.cache
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected_Color.Form1.resources
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected_Color.Properties.Resources.resources
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected Color.csproj.GenerateResource.cache
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected Color.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected Color.exe
+C:\Users\ASUS-VivoBook\source\repos\WinFormsApp1\Selected Color\obj\Debug\Selected Color.pdb
